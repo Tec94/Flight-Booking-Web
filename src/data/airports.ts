@@ -1,0 +1,22 @@
+export const airports = [
+  'New York (JFK)',
+  'Los Angeles (LAX)',
+  'London (LHR)',
+  'Paris (CDG)',
+  'Tokyo (HND)',
+  'Dubai (DXB)',
+  'Singapore (SIN)',
+  'Hong Kong (HKG)',
+  'Sydney (SYD)',
+  'Toronto (YYZ)',
+  'Amsterdam (AMS)',
+  'Frankfurt (FRA)',
+  'Beijing (PEK)',
+  'Seoul (ICN)',
+  'Mumbai (BOM)',
+  'Bangkok (BKK)',
+  'Istanbul (IST)',
+  'Madrid (MAD)',
+  'Rome (FCO)',
+  'San Francisco (SFO)'
+];
